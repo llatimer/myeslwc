@@ -1,7 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "force-styles",
+      "default": true
+    },
+    {
+      "path": "force-objects",
       "default": true
     }
   ],

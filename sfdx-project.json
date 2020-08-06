@@ -1,11 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "force-styles",
-      "default": true
+      "path": "es-base-styles",
+      "default": false
     },
     {
-      "path": "force-objects",
+      "path": "es-base-objects",
       "default": true
     }
   ],
